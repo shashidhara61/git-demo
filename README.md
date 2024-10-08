@@ -135,3 +135,6 @@ This project is designed for hands-on practice in Git and GitHub collaboration. 
 5. **Merging Pull Requests**
    - Before merging, ensure all comments and feedback are addressed.
    - Mention the related issue in the merge commit to close the issue automatically.
+
+6. **Cobtributors**
+   - Shashidhara H S
